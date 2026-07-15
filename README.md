@@ -5,6 +5,9 @@ First attempt to modelling via Blender
 
 <img width="500" height="220" alt="ussr_kazanets_parchim_class_project_133_1m_corvette_1998-43900" src="https://github.com/user-attachments/assets/84ffc180-f32c-4297-a892-96a96af20979" />
 
+
+References : https://www.the-blueprints.com/
+
 **Current Progress**
 <img width="1919" height="1088" alt="Screenshot 2026-07-15 153002" src="https://github.com/user-attachments/assets/34b8da34-cf3b-42e6-8636-d6a22565171e" />
 **2nd Pict**
